@@ -1,2 +1,8 @@
 # pig-latin-go
-Golang pig latin translator
+This Golang CLI "translates" a text file into either Pig Latin or Feaux Old Norse. You can watch the video of how it was made here: 
+
+# How To Use
+You should be able to just pull it and run it like a normal go program. No weird dependencies or anything.
+
+# Usage
+Feel free to fork it and play around with other translator techniques.
